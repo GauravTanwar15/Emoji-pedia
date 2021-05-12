@@ -56,11 +56,18 @@ const emojipedia = [
       "often used to convey mild irritation and concern or a deadpan sense of humor."
   },
   {
-    id: 8,
+    id: 9,
     emoji: "😶",
     name: "Face Without Mouth",
     meaning:
       "Meaning widely varies, but commonly conveys speechlessness. May also convey moderately negative emotions, such as disappointment. "
+  },
+  {
+    id: 10,
+    emoji: "🤮",
+    name: "Face Vomiting",
+    meaning:
+      "May represent physical illness or disgust, more intensely so than Nauseated Face"
   }
 ];
 
